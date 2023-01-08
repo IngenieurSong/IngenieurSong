@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   
 <div align=center>✉Contact✉</div>  
 <div align=center>ingenieur.song@gmail.com</div>
-<div align=center><a href="https://it-is-my-life.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-#000000?style=flat-square&logo=Tistory&logoColor=white"/></a></div>
+<div align=center><a href="https://it-is-my-life.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a></div>
