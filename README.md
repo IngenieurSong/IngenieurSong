@@ -36,6 +36,6 @@ Here are some ideas to get you started:
   
   
   
-<div align=center>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngenieurSong&show_icons=ture&theme-radical)](https://github.com/anuraghazra/github-readme-stats)</div>
-  
-<div align=center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingenieur_song)](https://solved.ac/ingenieur_song/)</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngenieurSong&show_icons=ture&theme-radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="padding:20px;"></div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingenieur_song)](https://solved.ac/ingenieur_song/)
